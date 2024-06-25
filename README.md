@@ -1,15 +1,25 @@
 ## Hi there 👋
 
+My name is Aiden Lane and I am an aspiring Data Analyst!
+
+### Projects
+##### Case Study Analysis on Indwelling Arterial Catheters Using MIMIC-II database
+-test
+
+### Skills
+- Programming: SQL, Python (Pandas, Scikit-learn), R, SAS, Java
+- Data Visualization: Power BI, Excel, ArcGIS
+- Database Management: MS SQL Server, PostgreSQL
+
+### Socials
+- Email: aidenjlane@outlook.com
+- Linkedin: http://www.linkedin.com/in/aidenlane
+
+
 <!--
-**aidenLane/aidenLane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
