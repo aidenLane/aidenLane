@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
 
-My name is Aiden Lane and I am an aspiring Data Analyst!
+My name is Aiden Lane and I am an aspiring Data/Business Analyst!
 
 ### Projects
 ##### [Case Study Analysis on Indwelling Arterial Catheters Using MIMIC-II database](https://github.com/aidenLane/IAC-MIMIC2-Analysis)
@@ -17,7 +17,7 @@ mortality in patients
 
 ### Socials
 - Email: aidenjlane@outlook.com
-- Linkedin: http://www.linkedin.com/in/aidenlane
+- Linkedin: linkedin.com/in/aidenlane
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
