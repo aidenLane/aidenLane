@@ -17,7 +17,11 @@ mortality in patients
 
 ### Socials
 - Email: aidenjlane@outlook.com
-- Linkedin: linkedin.com/in/aidenlane
+- Linkedin: https://www.linkedin.com/in/aidenlane
+
+<!--
+### Learning
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
