@@ -3,6 +3,10 @@
 My name is Aiden Lane and I am an aspiring Data/Business Analyst!
 
 ### Projects
+##### [Amazon Sales Analysis](https://github.com/aidenLane/amazon-ecommerce-analysis)
+- 
+-
+
 ##### [Case Study Analysis on Indwelling Arterial Catheters Using MIMIC-II database](https://github.com/aidenLane/IAC-MIMIC2-Analysis)
 - Utilized Python (Pandas) and PostgreSQL to analyze clinical data from a case study on indwelling arterial
 catheters (IAC) for patients in the ICU as part of the MIMIC-II database
