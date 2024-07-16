@@ -5,7 +5,7 @@ My name is Aiden Lane and I am an aspiring Data/Business Analyst!
 ### Projects
 ##### [Amazon Sales Analysis](https://github.com/aidenLane/amazon-ecommerce-analysis)
 - Leveraged SQL in local PostgreSQL database to thoroughly clean data from Amazon India and performed
-exploratory data analysis to uncover key sales trends and relevant insights
+exploratory data analysis to uncover key sales trends
 - Developed simple yet informative data visualization in PowerBI, aimed to make the most important information available at a glance
 - Identified significant factors behind sales and revenue including geographic location, product category, etc.
 
