@@ -9,12 +9,15 @@ exploratory data analysis to uncover key sales trends
 - Developed simple yet informative data visualization in PowerBI, aimed to make the most important information available at a glance
 - Identified significant factors behind sales and revenue including geographic location, product category, etc.
 
+##### [Supply Chain Analysis with Excel](https://github.com/aidenLane/excel-supply-chain-analysis)
+- Built an interactive Excel dashboard using pivot tables to analyze large supply chain dataset, uncovering trends in relevant key performance indicators (KPIs)
+- Analyzed patterns in order fulfillment metrics, including late and perfect order rates, to optimize supply chain
+  
 ##### [Case Study Analysis on Indwelling Arterial Catheters Using MIMIC-II database](https://github.com/aidenLane/IAC-MIMIC2-Analysis)
 - Utilized Python (Pandas) and PostgreSQL to analyze clinical data from a case study on indwelling arterial
 catheters (IAC) for patients in the ICU as part of the MIMIC-II database
 - Performed binary logistic regression using scikit-learn to create a model with high accuracy for classifying
 mortality in patients
-- Built visualizations in PowerBI to present findings and support case study analysis
 
 ### Skills
 - Programming: SQL, Python (Pandas, Scikit-learn), R, SAS, Java
