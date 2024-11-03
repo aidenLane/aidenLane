@@ -24,6 +24,10 @@ mortality in patients
 - Data Visualization: Power BI, Excel, ArcGIS
 - Database Management: MS SQL Server, PostgreSQL
 
+### Certifications
+- [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/aidenlane/credentials/42ac073b9ecd7abb)
+
+
 ### Socials
 - Email: aidenjlane@outlook.com
 - Linkedin: https://www.linkedin.com/in/aidenlane
